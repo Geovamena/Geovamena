@@ -37,7 +37,5 @@ If you're looking for a versatile, results-oriented developer with a solid techn
   <img src="https://github-profile-trophy.vercel.app?username=geo-mena&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### ✍️ Dev Quote
+# ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
