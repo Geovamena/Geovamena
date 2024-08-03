@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm a Front End developer based in Ecuador with +2 years of experience in the software industry. I have worked on projects with a development enviroment Full Stack, but actually I'm specializing on Front End development with a development enviroment based on React js. <br><br>I also have experience in the layout and integration of web applications using tools like GitHub, Notion and Slack. Furthermore, I like assist to developer meetings, conferences, do workshops and share knowledge. The best place to work is where I can improve constantly.<br><br>If you think I can help you with any of your projects, or if you have any comments about my work, do not hesitate to contact me. My email address is geomenacontact@gmail.com
-
+As a Full Stack Developer with over 2 years of experience in the software development industry, I specialize in modern technologies such as JavaScript, React, Vue.js, PHP/Laravel, and Node.js. My expertise spans from front-end development to implementing robust architectures and optimizing databases. I thrive in agile environments, utilizing tools like GitHub, Notion, and Slack to maintain efficient and collaborative workflows.
+<br><br>
+I am passionate about creating dynamic and innovative web experiences, with a focus on scalable and maintainable solutions. My ability to learn quickly and solve complex problems allows me to adapt to new challenges and significantly contribute to team and company success. I constantly seek opportunities for professional growth and knowledge sharing, enjoying developer meetups, conferences, and workshops.
+<br><br>
+If you're looking for a versatile, results-oriented developer with a solid technical background, I'd be delighted to connect. My experience in process optimization and continuous improvement of project efficiency makes me a valuable asset to any development team. Feel free to reach out to me at geomenacontact@gmail.com to discuss potential collaborations or exchange ideas about software development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eldiariodebradley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geovannimena/) 
