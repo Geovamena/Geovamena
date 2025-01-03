@@ -1,10 +1,8 @@
-<div align="center" style="margin-top: 16px;">
+<div align="center">
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-### 
 
 <div align="start">
 
