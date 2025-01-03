@@ -34,6 +34,6 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=@geo-mena&theme=radical&hide_border=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=@geo-mena&theme=radical&hide_border=true)
 
 </div>
