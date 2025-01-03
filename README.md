@@ -6,7 +6,7 @@
 
 ### 
 
-<div align="center">
+<div align="start">
 
   <h2>🌟 About Me</h2>
 
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="start">
 
   <h2>🚀 Stats</h2>
 
