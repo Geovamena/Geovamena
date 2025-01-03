@@ -4,11 +4,11 @@
 
 </div>
 
-## 🌟 About Me:
+### 🌟 About Me:
 
 🌱 **Full Stack Developer** with over 2 years of experience, specializing in TypeScript, React, Vue, Laravel, and Node. I have optimized development processes, improving project efficiency by up to 20% and reducing response times by 30% through robust architectures. I excel at creating innovative and scalable web applications, with a proven track record of developing enterprise solutions serving thousands of users. Let's connect at geomenacontact@gmail.com to discuss potential collaborations.
 
-## 🛠️ Stack
+### 🛠️ Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
 </div>
 
-## 🚀 Stats
+### 🚀 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geo-mena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
