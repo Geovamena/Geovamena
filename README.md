@@ -16,11 +16,9 @@
 
 <div align="center">
 
-  <h3>🛠️ Tech Stack</h3>
+  <h2>🛠️ Tech Stack</h2>
 
 </div>
-
-<hr>
 
 <div align="center">
   <a href="https://skillicons.dev">
