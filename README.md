@@ -34,8 +34,8 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geo-mena&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=geo-mena&theme=one_dark_pro&hide_border=false)
+
+
 
 </div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=geo-mena&theme=one_dark_pro&hide_border=false)
