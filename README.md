@@ -8,7 +8,7 @@
 
 <div align="start">
 
-  <h2>🌟 About Me</h2>
+  <h3>🌟 About Me</h3>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="start">
 
-  <h2>🛠️ Tech Stack</h2>
+  <h3>🛠️ Tech Stack</h3>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="start">
 
-  <h2>🚀 Stats</h2>
+  <h3>🚀 GitHub Stats</h3>
 
 </div>
 
