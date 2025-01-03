@@ -14,7 +14,7 @@
 
 🌱 I'm a **Full Stack Developer** with over 2 years of experience, specializing in TypeScript, React, Vue, Laravel, and Node. I have optimized development processes, improving project efficiency by up to 20% and reducing response times by 30% through robust architectures. I excel at creating innovative and scalable web applications, with a proven track record of developing enterprise solutions serving thousands of users. Let's connect at geomenacontact@gmail.com to discuss potential collaborations.
 
-<div align="center">
+<div align="start">
 
   <h2>🛠️ Tech Stack</h2>
 
