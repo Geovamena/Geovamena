@@ -14,8 +14,9 @@
 
 📌 **Current Focus**:
 - Architecting enterprise solutions for thousands of users
-- Revolutionizing accounting with modern tech
-- Making document signing seamless with Next.js
+- Optimizing cloud-based accounting solutions across multiple countries
+-  Developing Tofi, a Next.js-powered document signing platform
+-  Crafting innovative solutions that simplify complex workflows
 - Ready to collaborate on your next big idea!
 
 
