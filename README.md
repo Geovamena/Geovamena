@@ -33,6 +33,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geo-mena&theme=one_dark_pro&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=geo-mena&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=geo-mena&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geo-mena&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
