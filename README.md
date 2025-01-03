@@ -10,9 +10,9 @@
 
 </div>
 
-🌱 I turn coffee into code and ideas into applications. As a **Full Stack Developer**, I specialize in building scalable web solutions that make a real impact. My tech journey involves TypeScript, React, Vue, Laravel, and Node.
+🌱 I turn coffee into code and ideas into applications. As a **Full Stack Developer**, I specialize in building scalable web solutions that make a real impact.
 
-📌 **Currently**:
+📌 **Current Focus**:
 - Architecting enterprise solutions for thousands of users
 - Revolutionizing accounting with modern tech
 - Making document signing seamless with Next.js
