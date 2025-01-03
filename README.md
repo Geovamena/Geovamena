@@ -1,4 +1,4 @@
-<div align="center" className="mt-4">
+<div align="center" style="margin-top: 16px;">
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
